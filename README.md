@@ -1,1 +1,1 @@
-git push 0u
+first commit
